@@ -10,7 +10,8 @@ Learning AWS CFT
 
 5 Examples and 18 resources overall
 
-![Uploading image.png…]()
+![image](https://github.com/saifali1035/AWS_CFT_Learning/assets/37189361/3207c3a2-18aa-4bd7-9038-790423379b9d)
+
 
 
 
