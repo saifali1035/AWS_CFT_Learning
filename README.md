@@ -33,4 +33,3 @@ Learning AWS CFT
 
 ## Metadata
 
-5 Examples and 18 resources overall
